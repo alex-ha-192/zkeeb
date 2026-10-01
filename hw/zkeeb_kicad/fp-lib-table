@@ -2,4 +2,5 @@
 	(version 7)
 	(lib (name "ai03-2725 MX_V2 main Gateron_KS33_Hotswap") (type "KiCad") (uri "/home/alexh/Documents/Code/zkeeb/hw/lib/ai03-2725 MX_V2 main Gateron_KS33_Hotswap.pretty") (options "") (descr ""))
 	(lib (name "sksclce010") (type "KiCad") (uri "/home/alexh/Documents/Code/zkeeb/hw/lib/ul_SKSCLCE010/KiCADv6/footprints.pretty") (options "") (descr ""))
+	(lib (name "ks33_flipped") (type "KiCad") (uri "/home/alex/Hardware/zkeeb/hw/lib/ks33_flipped.pretty") (options "") (descr ""))
 )

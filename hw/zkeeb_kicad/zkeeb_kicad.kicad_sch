@@ -4832,7 +4832,7 @@
 				)
 			)
 		)
-		(property "Footprint" "ai03-2725 MX_V2 main Gateron_KS33_Hotswap:Gateron-KS33-Hotswap-1U"
+		(property "Footprint" "ks33_flipped:Gateron-KS33-Hotswap-1U"
 			(at 82.55 156.21 0)
 			(hide yes)
 			(show_name no)
@@ -5094,7 +5094,7 @@
 				)
 			)
 		)
-		(property "Footprint" "ai03-2725 MX_V2 main Gateron_KS33_Hotswap:Gateron-KS33-Hotswap-1U"
+		(property "Footprint" "ks33_flipped:Gateron-KS33-Hotswap-1U"
 			(at 26.67 48.26 0)
 			(hide yes)
 			(show_name no)
@@ -5253,7 +5253,7 @@
 				)
 			)
 		)
-		(property "Footprint" "ai03-2725 MX_V2 main Gateron_KS33_Hotswap:Gateron-KS33-Hotswap-1U"
+		(property "Footprint" "ks33_flipped:Gateron-KS33-Hotswap-1U"
 			(at 54.61 26.67 0)
 			(hide yes)
 			(show_name no)
@@ -5333,7 +5333,7 @@
 				)
 			)
 		)
-		(property "Footprint" "ai03-2725 MX_V2 main Gateron_KS33_Hotswap:Gateron-KS33-Hotswap-1U"
+		(property "Footprint" "ks33_flipped:Gateron-KS33-Hotswap-1U"
 			(at 82.55 26.67 0)
 			(hide yes)
 			(show_name no)
@@ -5517,7 +5517,7 @@
 				)
 			)
 		)
-		(property "Footprint" "ai03-2725 MX_V2 main Gateron_KS33_Hotswap:Gateron-KS33-Hotswap-1U"
+		(property "Footprint" "ks33_flipped:Gateron-KS33-Hotswap-1U"
 			(at 124.46 156.21 0)
 			(hide yes)
 			(show_name no)
@@ -5597,7 +5597,7 @@
 				)
 			)
 		)
-		(property "Footprint" "ai03-2725 MX_V2 main Gateron_KS33_Hotswap:Gateron-KS33-Hotswap-1U"
+		(property "Footprint" "ks33_flipped:Gateron-KS33-Hotswap-1U"
 			(at 96.52 134.62 0)
 			(hide yes)
 			(show_name no)
@@ -5885,7 +5885,7 @@
 				)
 			)
 		)
-		(property "Footprint" "ai03-2725 MX_V2 main Gateron_KS33_Hotswap:Gateron-KS33-Hotswap-1U"
+		(property "Footprint" "ks33_flipped:Gateron-KS33-Hotswap-1U"
 			(at 68.58 26.67 0)
 			(hide yes)
 			(show_name no)
@@ -5965,7 +5965,7 @@
 				)
 			)
 		)
-		(property "Footprint" "ai03-2725 MX_V2 main Gateron_KS33_Hotswap:Gateron-KS33-Hotswap-1U"
+		(property "Footprint" "ks33_flipped:Gateron-KS33-Hotswap-1U"
 			(at 68.58 91.44 0)
 			(hide yes)
 			(show_name no)
@@ -6149,7 +6149,7 @@
 				)
 			)
 		)
-		(property "Footprint" "ai03-2725 MX_V2 main Gateron_KS33_Hotswap:Gateron-KS33-Hotswap-1U"
+		(property "Footprint" "ks33_flipped:Gateron-KS33-Hotswap-1U"
 			(at 68.58 156.21 0)
 			(hide yes)
 			(show_name no)
@@ -6229,7 +6229,7 @@
 				)
 			)
 		)
-		(property "Footprint" "ai03-2725 MX_V2 main Gateron_KS33_Hotswap:Gateron-KS33-Hotswap-1U"
+		(property "Footprint" "ks33_flipped:Gateron-KS33-Hotswap-1U"
 			(at 110.49 134.62 0)
 			(hide yes)
 			(show_name no)
@@ -6309,7 +6309,7 @@
 				)
 			)
 		)
-		(property "Footprint" "ai03-2725 MX_V2 main Gateron_KS33_Hotswap:Gateron-KS33-Hotswap-1U"
+		(property "Footprint" "ks33_flipped:Gateron-KS33-Hotswap-1U"
 			(at 82.55 69.85 0)
 			(hide yes)
 			(show_name no)
@@ -6389,7 +6389,7 @@
 				)
 			)
 		)
-		(property "Footprint" "ai03-2725 MX_V2 main Gateron_KS33_Hotswap:Gateron-KS33-Hotswap-1U"
+		(property "Footprint" "ks33_flipped:Gateron-KS33-Hotswap-1U"
 			(at 68.58 48.26 0)
 			(hide yes)
 			(show_name no)
@@ -6469,7 +6469,7 @@
 				)
 			)
 		)
-		(property "Footprint" "ai03-2725 MX_V2 main Gateron_KS33_Hotswap:Gateron-KS33-Hotswap-1U"
+		(property "Footprint" "ks33_flipped:Gateron-KS33-Hotswap-1U"
 			(at 110.49 26.67 0)
 			(hide yes)
 			(show_name no)
@@ -6549,7 +6549,7 @@
 				)
 			)
 		)
-		(property "Footprint" "ai03-2725 MX_V2 main Gateron_KS33_Hotswap:Gateron-KS33-Hotswap-1U"
+		(property "Footprint" "ks33_flipped:Gateron-KS33-Hotswap-1U"
 			(at 124.46 177.8 0)
 			(hide yes)
 			(show_name no)
@@ -6733,7 +6733,7 @@
 				)
 			)
 		)
-		(property "Footprint" "ai03-2725 MX_V2 main Gateron_KS33_Hotswap:Gateron-KS33-Hotswap-1U"
+		(property "Footprint" "ks33_flipped:Gateron-KS33-Hotswap-1U"
 			(at 26.67 69.85 0)
 			(hide yes)
 			(show_name no)
@@ -6813,7 +6813,7 @@
 				)
 			)
 		)
-		(property "Footprint" "ai03-2725 MX_V2 main Gateron_KS33_Hotswap:Gateron-KS33-Hotswap-1U"
+		(property "Footprint" "ks33_flipped:Gateron-KS33-Hotswap-1U"
 			(at 110.49 113.03 0)
 			(hide yes)
 			(show_name no)
@@ -6893,7 +6893,7 @@
 				)
 			)
 		)
-		(property "Footprint" "ai03-2725 MX_V2 main Gateron_KS33_Hotswap:Gateron-KS33-Hotswap-1U"
+		(property "Footprint" "ks33_flipped:Gateron-KS33-Hotswap-1U"
 			(at 124.46 48.26 0)
 			(hide yes)
 			(show_name no)
@@ -7364,7 +7364,7 @@
 				)
 			)
 		)
-		(property "Footprint" "ai03-2725 MX_V2 main Gateron_KS33_Hotswap:Gateron-KS33-Hotswap-1U"
+		(property "Footprint" "ks33_flipped:Gateron-KS33-Hotswap-1U"
 			(at 26.67 26.67 0)
 			(hide yes)
 			(show_name no)
@@ -7548,7 +7548,7 @@
 				)
 			)
 		)
-		(property "Footprint" "ai03-2725 MX_V2 main Gateron_KS33_Hotswap:Gateron-KS33-Hotswap-1U"
+		(property "Footprint" "ks33_flipped:Gateron-KS33-Hotswap-1U"
 			(at 68.58 69.85 0)
 			(hide yes)
 			(show_name no)
@@ -8494,7 +8494,7 @@
 				)
 			)
 		)
-		(property "Footprint" "ai03-2725 MX_V2 main Gateron_KS33_Hotswap:Gateron-KS33-Hotswap-1U"
+		(property "Footprint" "ks33_flipped:Gateron-KS33-Hotswap-1U"
 			(at 96.52 113.03 0)
 			(hide yes)
 			(show_name no)
@@ -8574,7 +8574,7 @@
 				)
 			)
 		)
-		(property "Footprint" "ai03-2725 MX_V2 main Gateron_KS33_Hotswap:Gateron-KS33-Hotswap-1U"
+		(property "Footprint" "ks33_flipped:Gateron-KS33-Hotswap-1U"
 			(at 138.43 26.67 0)
 			(hide yes)
 			(show_name no)
@@ -8654,7 +8654,7 @@
 				)
 			)
 		)
-		(property "Footprint" "ai03-2725 MX_V2 main Gateron_KS33_Hotswap:Gateron-KS33-Hotswap-1U"
+		(property "Footprint" "ks33_flipped:Gateron-KS33-Hotswap-1U"
 			(at 82.55 48.26 0)
 			(hide yes)
 			(show_name no)
@@ -8734,7 +8734,7 @@
 				)
 			)
 		)
-		(property "Footprint" "ai03-2725 MX_V2 main Gateron_KS33_Hotswap:Gateron-KS33-Hotswap-1U"
+		(property "Footprint" "ks33_flipped:Gateron-KS33-Hotswap-1U"
 			(at 26.67 156.21 0)
 			(hide yes)
 			(show_name no)
@@ -9079,7 +9079,7 @@
 				)
 			)
 		)
-		(property "Footprint" "ai03-2725 MX_V2 main Gateron_KS33_Hotswap:Gateron-KS33-Hotswap-1U"
+		(property "Footprint" "ks33_flipped:Gateron-KS33-Hotswap-1U"
 			(at 138.43 48.26 0)
 			(hide yes)
 			(show_name no)
@@ -9159,7 +9159,7 @@
 				)
 			)
 		)
-		(property "Footprint" "ai03-2725 MX_V2 main Gateron_KS33_Hotswap:Gateron-KS33-Hotswap-1U"
+		(property "Footprint" "ks33_flipped:Gateron-KS33-Hotswap-1U"
 			(at 96.52 91.44 0)
 			(hide yes)
 			(show_name no)
@@ -9343,7 +9343,7 @@
 				)
 			)
 		)
-		(property "Footprint" "ai03-2725 MX_V2 main Gateron_KS33_Hotswap:Gateron-KS33-Hotswap-1U"
+		(property "Footprint" "ks33_flipped:Gateron-KS33-Hotswap-1U"
 			(at 26.67 177.8 0)
 			(hide yes)
 			(show_name no)
@@ -9631,7 +9631,7 @@
 				)
 			)
 		)
-		(property "Footprint" "ai03-2725 MX_V2 main Gateron_KS33_Hotswap:Gateron-KS33-Hotswap-1U"
+		(property "Footprint" "ks33_flipped:Gateron-KS33-Hotswap-1U"
 			(at 96.52 156.21 0)
 			(hide yes)
 			(show_name no)
@@ -9711,7 +9711,7 @@
 				)
 			)
 		)
-		(property "Footprint" "ai03-2725 MX_V2 main Gateron_KS33_Hotswap:Gateron-KS33-Hotswap-1U"
+		(property "Footprint" "ks33_flipped:Gateron-KS33-Hotswap-1U"
 			(at 68.58 113.03 0)
 			(hide yes)
 			(show_name no)
@@ -9895,7 +9895,7 @@
 				)
 			)
 		)
-		(property "Footprint" "ai03-2725 MX_V2 main Gateron_KS33_Hotswap:Gateron-KS33-Hotswap-1U"
+		(property "Footprint" "ks33_flipped:Gateron-KS33-Hotswap-1U"
 			(at 110.49 48.26 0)
 			(hide yes)
 			(show_name no)
@@ -10183,7 +10183,7 @@
 				)
 			)
 		)
-		(property "Footprint" "ai03-2725 MX_V2 main Gateron_KS33_Hotswap:Gateron-KS33-Hotswap-1U"
+		(property "Footprint" "ks33_flipped:Gateron-KS33-Hotswap-1U"
 			(at 40.64 156.21 0)
 			(hide yes)
 			(show_name no)
@@ -10342,7 +10342,7 @@
 				)
 			)
 		)
-		(property "Footprint" "ai03-2725 MX_V2 main Gateron_KS33_Hotswap:Gateron-KS33-Hotswap-1U"
+		(property "Footprint" "ks33_flipped:Gateron-KS33-Hotswap-1U"
 			(at 40.64 177.8 0)
 			(hide yes)
 			(show_name no)
@@ -10422,7 +10422,7 @@
 				)
 			)
 		)
-		(property "Footprint" "ai03-2725 MX_V2 main Gateron_KS33_Hotswap:Gateron-KS33-Hotswap-1U"
+		(property "Footprint" "ks33_flipped:Gateron-KS33-Hotswap-1U"
 			(at 138.43 69.85 0)
 			(hide yes)
 			(show_name no)
@@ -10814,7 +10814,7 @@
 				)
 			)
 		)
-		(property "Footprint" "ai03-2725 MX_V2 main Gateron_KS33_Hotswap:Gateron-KS33-Hotswap-1U"
+		(property "Footprint" "ks33_flipped:Gateron-KS33-Hotswap-1U"
 			(at 124.46 26.67 0)
 			(hide yes)
 			(show_name no)
@@ -10894,7 +10894,7 @@
 				)
 			)
 		)
-		(property "Footprint" "ai03-2725 MX_V2 main Gateron_KS33_Hotswap:Gateron-KS33-Hotswap-1U"
+		(property "Footprint" "ks33_flipped:Gateron-KS33-Hotswap-1U"
 			(at 96.52 69.85 0)
 			(hide yes)
 			(show_name no)
@@ -11286,7 +11286,7 @@
 				)
 			)
 		)
-		(property "Footprint" "ai03-2725 MX_V2 main Gateron_KS33_Hotswap:Gateron-KS33-Hotswap-1U"
+		(property "Footprint" "ks33_flipped:Gateron-KS33-Hotswap-1U"
 			(at 54.61 177.8 0)
 			(hide yes)
 			(show_name no)
@@ -11366,7 +11366,7 @@
 				)
 			)
 		)
-		(property "Footprint" "ai03-2725 MX_V2 main Gateron_KS33_Hotswap:Gateron-KS33-Hotswap-1U"
+		(property "Footprint" "ks33_flipped:Gateron-KS33-Hotswap-1U"
 			(at 96.52 26.67 0)
 			(hide yes)
 			(show_name no)
@@ -11446,7 +11446,7 @@
 				)
 			)
 		)
-		(property "Footprint" "ai03-2725 MX_V2 main Gateron_KS33_Hotswap:Gateron-KS33-Hotswap-1U"
+		(property "Footprint" "ks33_flipped:Gateron-KS33-Hotswap-1U"
 			(at 124.46 113.03 0)
 			(hide yes)
 			(show_name no)
@@ -11526,7 +11526,7 @@
 				)
 			)
 		)
-		(property "Footprint" "ai03-2725 MX_V2 main Gateron_KS33_Hotswap:Gateron-KS33-Hotswap-1U"
+		(property "Footprint" "ks33_flipped:Gateron-KS33-Hotswap-1U"
 			(at 110.49 177.8 0)
 			(hide yes)
 			(show_name no)
@@ -11606,7 +11606,7 @@
 				)
 			)
 		)
-		(property "Footprint" "ai03-2725 MX_V2 main Gateron_KS33_Hotswap:Gateron-KS33-Hotswap-1U"
+		(property "Footprint" "ks33_flipped:Gateron-KS33-Hotswap-1U"
 			(at 110.49 156.21 0)
 			(hide yes)
 			(show_name no)
@@ -11686,7 +11686,7 @@
 				)
 			)
 		)
-		(property "Footprint" "ai03-2725 MX_V2 main Gateron_KS33_Hotswap:Gateron-KS33-Hotswap-1U"
+		(property "Footprint" "ks33_flipped:Gateron-KS33-Hotswap-1U"
 			(at 96.52 177.8 0)
 			(hide yes)
 			(show_name no)
@@ -11974,7 +11974,7 @@
 				)
 			)
 		)
-		(property "Footprint" "ai03-2725 MX_V2 main Gateron_KS33_Hotswap:Gateron-KS33-Hotswap-1U"
+		(property "Footprint" "ks33_flipped:Gateron-KS33-Hotswap-1U"
 			(at 82.55 91.44 0)
 			(hide yes)
 			(show_name no)
@@ -12054,7 +12054,7 @@
 				)
 			)
 		)
-		(property "Footprint" "ai03-2725 MX_V2 main Gateron_KS33_Hotswap:Gateron-KS33-Hotswap-1U"
+		(property "Footprint" "ks33_flipped:Gateron-KS33-Hotswap-1U"
 			(at 54.61 48.26 0)
 			(hide yes)
 			(show_name no)
@@ -12238,7 +12238,7 @@
 				)
 			)
 		)
-		(property "Footprint" "ai03-2725 MX_V2 main Gateron_KS33_Hotswap:Gateron-KS33-Hotswap-1U"
+		(property "Footprint" "ks33_flipped:Gateron-KS33-Hotswap-1U"
 			(at 68.58 177.8 0)
 			(hide yes)
 			(show_name no)
@@ -12683,7 +12683,7 @@
 				)
 			)
 		)
-		(property "Footprint" "ai03-2725 MX_V2 main Gateron_KS33_Hotswap:Gateron-KS33-Hotswap-1U"
+		(property "Footprint" "ks33_flipped:Gateron-KS33-Hotswap-1U"
 			(at 40.64 69.85 0)
 			(hide yes)
 			(show_name no)
@@ -12867,7 +12867,7 @@
 				)
 			)
 		)
-		(property "Footprint" "ai03-2725 MX_V2 main Gateron_KS33_Hotswap:Gateron-KS33-Hotswap-1U"
+		(property "Footprint" "ks33_flipped:Gateron-KS33-Hotswap-1U"
 			(at 82.55 177.8 0)
 			(hide yes)
 			(show_name no)
@@ -12947,7 +12947,7 @@
 				)
 			)
 		)
-		(property "Footprint" "ai03-2725 MX_V2 main Gateron_KS33_Hotswap:Gateron-KS33-Hotswap-1U"
+		(property "Footprint" "ks33_flipped:Gateron-KS33-Hotswap-1U"
 			(at 124.46 69.85 0)
 			(hide yes)
 			(show_name no)
@@ -13651,7 +13651,7 @@
 				)
 			)
 		)
-		(property "Footprint" "ai03-2725 MX_V2 main Gateron_KS33_Hotswap:Gateron-KS33-Hotswap-1U"
+		(property "Footprint" "ks33_flipped:Gateron-KS33-Hotswap-1U"
 			(at 40.64 91.44 0)
 			(hide yes)
 			(show_name no)
@@ -13835,7 +13835,7 @@
 				)
 			)
 		)
-		(property "Footprint" "ai03-2725 MX_V2 main Gateron_KS33_Hotswap:Gateron-KS33-Hotswap-1U"
+		(property "Footprint" "ks33_flipped:Gateron-KS33-Hotswap-1U"
 			(at 54.61 134.62 0)
 			(hide yes)
 			(show_name no)
@@ -14331,7 +14331,7 @@
 				)
 			)
 		)
-		(property "Footprint" "ai03-2725 MX_V2 main Gateron_KS33_Hotswap:Gateron-KS33-Hotswap-1U"
+		(property "Footprint" "ks33_flipped:Gateron-KS33-Hotswap-1U"
 			(at 54.61 91.44 0)
 			(hide yes)
 			(show_name no)
@@ -14411,7 +14411,7 @@
 				)
 			)
 		)
-		(property "Footprint" "ai03-2725 MX_V2 main Gateron_KS33_Hotswap:Gateron-KS33-Hotswap-1U"
+		(property "Footprint" "ks33_flipped:Gateron-KS33-Hotswap-1U"
 			(at 54.61 156.21 0)
 			(hide yes)
 			(show_name no)
@@ -14699,7 +14699,7 @@
 				)
 			)
 		)
-		(property "Footprint" "ai03-2725 MX_V2 main Gateron_KS33_Hotswap:Gateron-KS33-Hotswap-1U"
+		(property "Footprint" "ks33_flipped:Gateron-KS33-Hotswap-1U"
 			(at 26.67 91.44 0)
 			(hide yes)
 			(show_name no)
@@ -15170,7 +15170,7 @@
 				)
 			)
 		)
-		(property "Footprint" "ai03-2725 MX_V2 main Gateron_KS33_Hotswap:Gateron-KS33-Hotswap-1U"
+		(property "Footprint" "ks33_flipped:Gateron-KS33-Hotswap-1U"
 			(at 124.46 91.44 0)
 			(hide yes)
 			(show_name no)
@@ -15354,7 +15354,7 @@
 				)
 			)
 		)
-		(property "Footprint" "ai03-2725 MX_V2 main Gateron_KS33_Hotswap:Gateron-KS33-Hotswap-1U"
+		(property "Footprint" "ks33_flipped:Gateron-KS33-Hotswap-1U"
 			(at 82.55 134.62 0)
 			(hide yes)
 			(show_name no)
@@ -15538,7 +15538,7 @@
 				)
 			)
 		)
-		(property "Footprint" "ai03-2725 MX_V2 main Gateron_KS33_Hotswap:Gateron-KS33-Hotswap-1U"
+		(property "Footprint" "ks33_flipped:Gateron-KS33-Hotswap-1U"
 			(at 96.52 48.26 0)
 			(hide yes)
 			(show_name no)
@@ -15722,7 +15722,7 @@
 				)
 			)
 		)
-		(property "Footprint" "ai03-2725 MX_V2 main Gateron_KS33_Hotswap:Gateron-KS33-Hotswap-1U"
+		(property "Footprint" "ks33_flipped:Gateron-KS33-Hotswap-1U"
 			(at 26.67 113.03 0)
 			(hide yes)
 			(show_name no)
@@ -16114,7 +16114,7 @@
 				)
 			)
 		)
-		(property "Footprint" "ai03-2725 MX_V2 main Gateron_KS33_Hotswap:Gateron-KS33-Hotswap-1U"
+		(property "Footprint" "ks33_flipped:Gateron-KS33-Hotswap-1U"
 			(at 40.64 48.26 0)
 			(hide yes)
 			(show_name no)
@@ -16194,7 +16194,7 @@
 				)
 			)
 		)
-		(property "Footprint" "ai03-2725 MX_V2 main Gateron_KS33_Hotswap:Gateron-KS33-Hotswap-1U"
+		(property "Footprint" "ks33_flipped:Gateron-KS33-Hotswap-1U"
 			(at 82.55 113.03 0)
 			(hide yes)
 			(show_name no)
@@ -16274,7 +16274,7 @@
 				)
 			)
 		)
-		(property "Footprint" "ai03-2725 MX_V2 main Gateron_KS33_Hotswap:Gateron-KS33-Hotswap-1U"
+		(property "Footprint" "ks33_flipped:Gateron-KS33-Hotswap-1U"
 			(at 54.61 69.85 0)
 			(hide yes)
 			(show_name no)
@@ -16354,7 +16354,7 @@
 				)
 			)
 		)
-		(property "Footprint" "ai03-2725 MX_V2 main Gateron_KS33_Hotswap:Gateron-KS33-Hotswap-1U"
+		(property "Footprint" "ks33_flipped:Gateron-KS33-Hotswap-1U"
 			(at 40.64 113.03 0)
 			(hide yes)
 			(show_name no)
@@ -16929,7 +16929,7 @@
 				)
 			)
 		)
-		(property "Footprint" "ai03-2725 MX_V2 main Gateron_KS33_Hotswap:Gateron-KS33-Hotswap-1U"
+		(property "Footprint" "ks33_flipped:Gateron-KS33-Hotswap-1U"
 			(at 138.43 91.44 0)
 			(hide yes)
 			(show_name no)
@@ -17009,7 +17009,7 @@
 				)
 			)
 		)
-		(property "Footprint" "ai03-2725 MX_V2 main Gateron_KS33_Hotswap:Gateron-KS33-Hotswap-1U"
+		(property "Footprint" "ks33_flipped:Gateron-KS33-Hotswap-1U"
 			(at 40.64 26.67 0)
 			(hide yes)
 			(show_name no)
@@ -17297,7 +17297,7 @@
 				)
 			)
 		)
-		(property "Footprint" "ai03-2725 MX_V2 main Gateron_KS33_Hotswap:Gateron-KS33-Hotswap-1U"
+		(property "Footprint" "ks33_flipped:Gateron-KS33-Hotswap-1U"
 			(at 68.58 134.62 0)
 			(hide yes)
 			(show_name no)
@@ -17377,7 +17377,7 @@
 				)
 			)
 		)
-		(property "Footprint" "ai03-2725 MX_V2 main Gateron_KS33_Hotswap:Gateron-KS33-Hotswap-1U"
+		(property "Footprint" "ks33_flipped:Gateron-KS33-Hotswap-1U"
 			(at 110.49 69.85 0)
 			(hide yes)
 			(show_name no)
@@ -17561,7 +17561,7 @@
 				)
 			)
 		)
-		(property "Footprint" "ai03-2725 MX_V2 main Gateron_KS33_Hotswap:Gateron-KS33-Hotswap-1U"
+		(property "Footprint" "ks33_flipped:Gateron-KS33-Hotswap-1U"
 			(at 110.49 91.44 0)
 			(hide yes)
 			(show_name no)
@@ -17641,7 +17641,7 @@
 				)
 			)
 		)
-		(property "Footprint" "ai03-2725 MX_V2 main Gateron_KS33_Hotswap:Gateron-KS33-Hotswap-1U"
+		(property "Footprint" "ks33_flipped:Gateron-KS33-Hotswap-1U"
 			(at 40.64 134.62 0)
 			(hide yes)
 			(show_name no)
@@ -17721,7 +17721,7 @@
 				)
 			)
 		)
-		(property "Footprint" "ai03-2725 MX_V2 main Gateron_KS33_Hotswap:Gateron-KS33-Hotswap-1U"
+		(property "Footprint" "ks33_flipped:Gateron-KS33-Hotswap-1U"
 			(at 124.46 134.62 0)
 			(hide yes)
 			(show_name no)
@@ -18009,7 +18009,7 @@
 				)
 			)
 		)
-		(property "Footprint" "ai03-2725 MX_V2 main Gateron_KS33_Hotswap:Gateron-KS33-Hotswap-1U"
+		(property "Footprint" "ks33_flipped:Gateron-KS33-Hotswap-1U"
 			(at 26.67 134.62 0)
 			(hide yes)
 			(show_name no)
@@ -18454,7 +18454,7 @@
 				)
 			)
 		)
-		(property "Footprint" "ai03-2725 MX_V2 main Gateron_KS33_Hotswap:Gateron-KS33-Hotswap-1U"
+		(property "Footprint" "ks33_flipped:Gateron-KS33-Hotswap-1U"
 			(at 54.61 113.03 0)
 			(hide yes)
 			(show_name no)
