@@ -1,0 +1,6 @@
+(sym_lib_table
+	(version 7)
+	(lib (name "PCM_marbastlib-gateron_lp") (type "KiCad") (uri "${KIPRJMOD}/../lib/marbastlib/symbols/marbastlib-gateron_lp.kicad_sym") (options "") (descr "Official MarbastLib Gateron low-profile symbols"))
+	(lib (name "PCM_marbastlib-promicroish") (type "KiCad") (uri "${KIPRJMOD}/../lib/marbastlib/symbols/marbastlib-promicroish.kicad_sym") (options "") (descr "Official MarbastLib promicro-compatible symbols"))
+	(lib (name "sksclce010") (type "KiCad") (uri "${KIPRJMOD}/../lib/ul_SKSCLCE010/KiCADv6/2026-07-27_19-48-50.kicad_sym") (options "") (descr "SKSCLCE010 reset switch symbol"))
+)
